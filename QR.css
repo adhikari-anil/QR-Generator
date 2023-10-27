@@ -9,6 +9,7 @@ body {
   min-height: 100vh;
   background: linear-gradient(135deg, #ffdb01 10%, #0e197d 100%);
 }
+
 h1 {
   font-size: 50px;
   background: -webkit-linear-gradient(black,red);
@@ -16,6 +17,7 @@ h1 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
 #text-input {
   margin-bottom: 15px;
   padding: 8px;
@@ -30,6 +32,7 @@ h1 {
   width: 100%;
   max-width: 300px;
 }
+
 #generate-button {
   margin-bottom: 10px;
   padding: 10px 20px;
